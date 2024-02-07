@@ -1,0 +1,2818 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "98b9e737-c592-11ee-832e-f2a0fc844426",
+    "deck_config_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "fsrsWeights": [],
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Standard",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 150
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 1500
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": false,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-0069f2b737e6b77a18b120ddd3950e2293380b31.jpg",
+        "paste-054642cb0668e66df16031bc0fe3357ea5b20d38.jpg",
+        "paste-10614b600c88485448ecc2cfa4327dc2a4d495a8.jpg",
+        "paste-13c22c66858030a743c98c964c631557e182dc3c.jpg",
+        "paste-141bfd1e15a9bb547b728a76f12cf09cbcbc4771.jpg",
+        "paste-187006302293d44143e098a6b4899d3abc23e573.jpg",
+        "paste-24e33345e8f2ffc5394571341c1bba578ee4d1ab.jpg",
+        "paste-277741fe884ee8968c39bda5f3116bae60e9b287.jpg",
+        "paste-2968885fd90b5184011a2a50e1e4090866e0c370.jpg",
+        "paste-2c9eef017f129a0b5337d2adbfedbe0b44dc1274.jpg",
+        "paste-2e400776ef2fabe36ee56c45c19d75420afd7a13.jpg",
+        "paste-316574c99988e06f6e05953810fbb6e1f6865e3c.jpg",
+        "paste-31ebbe72a926d8a901bc1a45a7e0576086b3059b.jpg",
+        "paste-32663055f5c473c53b53bcfdf68a041c660115a3.jpg",
+        "paste-3510b39457feb5c38764a180c6273aeab7e607dc.jpg",
+        "paste-38f8aa2fc753788609bcfda8f4cfcc8843060640.jpg",
+        "paste-399eed2df6344630da67f1caa6c82d16b9c5a7d1.jpg",
+        "paste-456799ecc2a0b9faf9f0eaf0266fd5d25c43b3e3.jpg",
+        "paste-4adc239bdf71f723e80197a28c49e2c1f4857be5.jpg",
+        "paste-4bf18821ce2fe24de2f7f25f8f7ff4944368ba98.jpg",
+        "paste-4ceab30623f6fbe9d3b80cccf0980f1afc7ad6c3.jpg",
+        "paste-4f894658c657915541e6a0d32127468179b7bbe3.jpg",
+        "paste-526904817cb7fdd6f990b910faaed776a59cca3a.jpg",
+        "paste-548f306bcdcebf8a8f6558bcec9da2448bad61b3.jpg",
+        "paste-5562dab2c1f6991a410df5b257cc193c81639f96.jpg",
+        "paste-58046dc14aa801d8bd9db39d3d1f6771571b3ed2.jpg",
+        "paste-5909ca85cb514bdd0b4c4a51f069168a2e4b13aa.jpg",
+        "paste-5b2440666d6963ae6e333d4723d8829558d14ae5.jpg",
+        "paste-5d94d2f46b9222eab5ac063eaa8bcd244c430737.jpg",
+        "paste-607966b048fc4c079612784e9ffb8756a2da0f0e.jpg",
+        "paste-622e6f6ebf27239dc6e5f38a8b012010687310f1.jpg",
+        "paste-755dcd12a81b870984ee377adaa92478348ff34c.jpg",
+        "paste-7889eb52ad353063cc6b61593966252d66a7b667.jpg",
+        "paste-7f84adac3849e7274b065ddfa8c0f0ee94b8794a.jpg",
+        "paste-8012ae926a7a823c12306096a4301ccd8530e05f.jpg",
+        "paste-80aedf0a6a9c1157f51ce8ba20d7f788b086307c.jpg",
+        "paste-841dfed5b9dbc3d0bf1c3b4ac6dfc349740d8076.jpg",
+        "paste-8784655a006e41236490fd1464aa8e05b6db2508.jpg",
+        "paste-8972f6d5cf7b6aa38e086559c9e82da1e375b372.jpg",
+        "paste-89ae3a6ddc5cbf722b925bfa86c97b72ee3a479f.jpg",
+        "paste-89b5170e76f9bde33ad778362d2b89c1e17f16ea.jpg",
+        "paste-8b67667b02168db816a768f5d58bbbf7b072b6bf.jpg",
+        "paste-8cd5e373e470b5afdb907a70096805a37fa59fed.jpg",
+        "paste-8ce147595e88c9410cc4742cfbc0e0fb978df6e6.jpg",
+        "paste-8f67e5192bd7b2c54666670d61b369f3e92f3bdb.jpg",
+        "paste-96c459a8039e81122621494ab5dc5245e97127c9.jpg",
+        "paste-97804a8063117cc2a3086b5ca748613fcbe6456c.jpg",
+        "paste-9824978f0bf3e9a39aecc31b0516bf6f2d06e211.jpg",
+        "paste-9a4d85c9407ca8a572130c63a5ee0a78405fffd9.jpg",
+        "paste-9ab14a309bb2fd829efb8114a604e82ccdb99c27.jpg",
+        "paste-a0fe1d856f2ed8f32bb80999e330c5d569a076bf.jpg",
+        "paste-a3143facec388bae6ed3522dc203727f7a0ad772.jpg",
+        "paste-a3a38f334e2b9215a73db15ca5b891caaff90247.jpg",
+        "paste-a57b91d91b1790ac314e80a5778de2694ed2349d.jpg",
+        "paste-aa0a3df792691ad3d75082f0c661730770aab750.jpg",
+        "paste-add8d7bb788e71a96f132371bb14512cb5053016.jpg",
+        "paste-af2886844ccd704b96aa8571946d386cb4416814.jpg",
+        "paste-b10340dd0975fd8892c78d5b743fe0e106771e1d.jpg",
+        "paste-b4445b2a1cffd8be8ba8a48ffbf8ba3621d614fe.jpg",
+        "paste-b5090ebd2e9317aa3fc1977228d948b37e7a35fc.jpg",
+        "paste-ba18a05ded8c04a7723b3c8a71e3166eee43c1f4.jpg",
+        "paste-c1cb15962c6a43fc58a24c2994d82c3d576693ae.jpg",
+        "paste-c2f449039cc58ab7e6a1b5a00ea4564f93700e29.jpg",
+        "paste-c32a1bfb989db18e0c7d17356811e1c5ca370bea.jpg",
+        "paste-c4311340fe938a13c47e0de9bbec78b15d335f71.jpg",
+        "paste-c85d7ae0299d04954339f986703a8d7f87e5e797.jpg",
+        "paste-c8be6bf4a12ad842291f4990ed23f368f36ca06a.jpg",
+        "paste-c8ffda5846af0d42f2f201b375617d40c28ecaa3.jpg",
+        "paste-c9daf0eede0ea239ff8d6718e1bb53bc72c865bb.jpg",
+        "paste-cd9d814b76607c2632d139195df18d1db60e2b83.jpg",
+        "paste-d6dc9fd764c87e9f9594871be9a2776d03b22960.jpg",
+        "paste-db60ad725a2e9ca83568bfa0aff8c316727542e1.jpg",
+        "paste-de194c2d897d8b9d5a92772bb44b39c3f4087322.jpg",
+        "paste-e80011dcaa45a785addcd01dee4f3f73e8f60c94.jpg",
+        "paste-e9b3336b846015ec9d2b86a1a54985f86271b10c.jpg",
+        "paste-edb1b119a5440be5aa5269f1339205dd6efe3b87.jpg",
+        "paste-ef3d0d864dfb14e7965c8b7cbd6572fdf82d6aa6.jpg",
+        "paste-f185a0bd3bf32b94779806cca1af551f77cb9fe3.jpg",
+        "paste-f6cf3cbd767a169ade1800b9ab42c2188595befd.jpg",
+        "paste-fb9386c0f27dcc1525cc0eff8321dcc46797507d.jpg"
+    ],
+    "name": "Theoretische Informatik",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Vorderseite",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": null,
+                    "name": "Rückseite",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Einfach",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Rückseite}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": null,
+                    "name": "Karte 1",
+                    "ord": 0,
+                    "qfmt": "{{Vorderseite}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Informatik?",
+                "Informatik ist die Wissenschaft von der systematischen Verarbeitung von Informationen, besondern der automatischen Verarbeitung mit Hilfe von Digitalrechnern"
+            ],
+            "guid": "Pd0dq{RwGq",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aus was setzt sich das Wort Informatik zusammen",
+                "<ul><li>Information</li><li>Automatik</li></ul>"
+            ],
+            "guid": "k,ib:^wt:j",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Aufgabe von Informatik?",
+                "automatisierte Verarbeitung von Informationen"
+            ],
+            "guid": "K#vBqfBhV(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Einordnung der Informatik in die Naturwissenschaften",
+                "<img src=\"paste-3510b39457feb5c38764a180c6273aeab7e607dc.jpg\">"
+            ],
+            "guid": "nxLqgsQ#~u",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die aufgaben der Informatik?",
+                "<ul><li>Erforschung grundsätzlicher Verfahrensweisen der Informationsverarbeitung</li><li>Erforschung allgemeiner Methoden und deren Anwendeung</li><li>Arbeitsprozesse durch Anwendungen der Datenverarbeitung konstruktiv maschinell zu unterstüzen, zu gestalten, zu organisieren</li><li>Die bei den zu lösenden Problemen auftretende Komplexität zu beherrschen und mit den daraus entstehenden Risiken verantwortungsvoll umzugehen</li></ul>"
+            ],
+            "guid": "g>_sMG!S_f",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Methodik der Informatik",
+                "<img src=\"paste-af2886844ccd704b96aa8571946d386cb4416814.jpg\">"
+            ],
+            "guid": "$5.G&0iiz",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Daten",
+                "Gebilde aus Zeichen oder kontinuierliche Funktionen, die aufgrund bekannter oder untersteller Abmachungen Informationen darstellen, vorrangig zum Zweck der Verarbeitung und als deren Ergebnis"
+            ],
+            "guid": "gEHvz3{8.W",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Information",
+                "Unterrichtung: Auskunft"
+            ],
+            "guid": "PA^$=^+uD2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Wissen",
+                "Wissen ist die begründete und begründbare Erkenntnis im Unterschied zur Vermutung und Meinung oder zum Glauben"
+            ],
+            "guid": "tPHz57JUg,",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Daten:",
+                "<ul><li>100100101001</li><li>abivernkjni</li><li>FF12AB3945</li><li>Das also war des Pudels Kern!</li></ul>"
+            ],
+            "guid": "G06TJkqZ,/",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Informationen?",
+                "Daten die nach vorgegebenen Regeln eine inhaltliche Bedeutung aufweisen"
+            ],
+            "guid": "xt2xAjH#r?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Daten",
+                "Endliches Gebilde aus Zeichen"
+            ],
+            "guid": "JXI8mhPwYm",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Wissen?",
+                "Informationen deren Inhalt verstanden wurde und die dadurch in einen größeren Kontext eingeordnet werden können"
+            ],
+            "guid": "O9M/TMwaH6",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Wissen",
+                "Das also war das Pudels Kern! -&gt; Bedeutung: Den wahren Kern einer Sache erfassen. Zitat aus Goethe's Faust"
+            ],
+            "guid": "e=[5Ubhh-8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Aufbau Daten, Information, Wissen",
+                "<img src=\"paste-96c459a8039e81122621494ab5dc5245e97127c9.jpg\">"
+            ],
+            "guid": "pp*38EH9-:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Notation?",
+                "Unter einer Notation wird die detaillierte Festlegung der verwendeten Elemente(Symole) einer Sprache verstanden"
+            ],
+            "guid": "i+lbb5fB?a",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Syntax?",
+                "Eine Syntax umfasst die formalen Refeln für die grammatikalischen Aufbau einer Sprache"
+            ],
+            "guid": "mH(Cs^Nn)r",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Semantik",
+                "Eine Semantik legt die Bedeutung von Wörtern fest"
+            ],
+            "guid": "oXcW,uUUSD",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Algorithmus?",
+                "Es ist ein Verfahren mit einer präzisen, in einer genau festgelegten Sprache abgefassten Beschreibung unter Verwendung von effektiven Verarbeitungsschritten"
+            ],
+            "guid": "k^3@Yg!Sl_",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arten von Algorithmen",
+                "<ul><li>determiniert</li><li>nicht-determiniert</li><li>deterministisch</li><li>nicht-deterministisch</li><li>probabilisitsch</li><li>heuristisch</li></ul>"
+            ],
+            "guid": "J9L/qd.7S;",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind determinierte Algorithmen?",
+                "ein Algorithmus liefert bei wiederholter Eingabe gleicher Startwerte das gleiche Ergebnis"
+            ],
+            "guid": "MbF4r_&zsl",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind nicht-determinierte Algorithmen",
+                "bei gleicher EIngabe unterschiedliche Ergebnisse"
+            ],
+            "guid": "FE^qPbMMx-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind deterministische Algorithmen",
+                "<ul><li>kann zu jeden Zustand nur einen definierten Folgezustand haben</li><li>sind immer determiniert</li><li>Großteil der Algorithmen</li></ul>"
+            ],
+            "guid": "jUP6f3tNfE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind nicht-deterministische Algorithmen",
+                "<ul><li>kennt zu jedem Zustand mehrere mögliche Folgezustände</li><li>Folgezustand wird z.B. durch Raten oder Simulation ausgewählt</li><li>können determiniert</li></ul>"
+            ],
+            "guid": "A?bGokn$V$",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiele nicht Deterministische",
+                "<ul><li>Suche über einen kompletten Baum</li><li>Benutzereingaben</li></ul>"
+            ],
+            "guid": "v~#Q5%V0ZC",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind probalisitsche Algorythmen",
+                "<ul><li>Mindestes eine Anweisung welche einen folgezustand hat, der zufällig generiert wird</li><li>nicht-dererminiert</li></ul>"
+            ],
+            "guid": "ASxvwkMlC{",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel probalistische Algorythmen",
+                "<ul><li>Monte-Carlo Simulationen</li><li>Spieltheorie</li></ul>"
+            ],
+            "guid": "D5WP&[O#-b",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind heurisitsche Algorythmen",
+                "<ul><li>Benutzen Heuristik</li><li>können (hoffentlich) determiniert oder nicht-determiniert sein</li><li>Lösungsverfahren ist bekannt aber nicht beweisbar</li></ul>"
+            ],
+            "guid": "kaCCkuZ8O?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Heuristiken?",
+                "Strategien bzw Lösungsverfahren"
+            ],
+            "guid": "QpuM:^;Eo",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiele heurisitische Algorythmen",
+                "<ul><li>Genetische Algorithmen</li><li>Neuronale Netze</li><li>Case-based Reasoning</li></ul>"
+            ],
+            "guid": "JCyh[^UQEQ",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Mögliche Vorgehensweisen bei der Entwicklung von Algorithmen",
+                "<ul><li>Top-Down</li><li>Bottom Up</li><li>Middle Up&nbsp;</li></ul>"
+            ],
+            "guid": "o+i?!ynNV%",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Middle-Out?",
+                "Laut Informatiktheroe gibt es diese Methode nicht, wird aber meistens Verwendet"
+            ],
+            "guid": "A(WK[S4$B<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorgehensweise Top Down",
+                "<ul><li>Ausgangspunkt: Problemstellung</li><li>Dann schrittweise Verfeinerung (zerlegung des Problems in logische Blöcke)</li></ul>"
+            ],
+            "guid": "vJ:n3Jz8xJ",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was muss beim Top-Down Ansatz Verfeinert werden",
+                "<ul><li>Operationen</li><li>Datenstrukturen</li><li>Kontrollflüssen</li></ul>"
+            ],
+            "guid": "Pn^SP%(DH8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorteile Top Down Ansatz",
+                "<ul><li>gut zu strukturieren</li><li>Wharscheinlichkeit, etwas zu vergessen ist gering</li></ul>"
+            ],
+            "guid": "uI8]Amoh0v",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nachteile Top Down Ansatz",
+                "<ul><li>Bei welchen Detailgrad abbrechen</li><li>sind vorgenommene Unterteilungen sinnvoll</li><li>bei großer Problemstellung kann die erschöpende Betrachtung sehr ausführlich werden</li></ul>"
+            ],
+            "guid": "f@3+mm9ZFI",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bottom Up Vorgehensweise",
+                "<ul><li>Ausgangspunkt: Einzelaufgaben/-komponenten</li><li>Schrittweise Zusammenfassung von logischen Blöcken&nbsp;</li></ul>"
+            ],
+            "guid": "MQJ2tNmpog",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert die zusammenfassung von logischen Blöcken?",
+                "Integration von einfachen Komponenten zu einem komplexeren Ganzen"
+            ],
+            "guid": "DmJ[XK>1;W",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorteile Bottom Up",
+                "<ul><li>Strukturierung von Teilproblemen/-aufgaben</li><li>Sinnvoll, wenn Problem/Aufgabenumfang gar nicht klar ist</li></ul>"
+            ],
+            "guid": "n~`}^L}4F6",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nachteile Bottom-Up",
+                "<ul><li>Gefahr, dass nicht an alles gedacht wird</li><li>ob eine sinnvolle Integration von Teilproblemen vorgenommen wurde, kann sich erst später herausstellen</li></ul>"
+            ],
+            "guid": "K~Q<J-#@S`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie viele Konstrukte benötigen imperative Programmiersprachen?",
+                "3"
+            ],
+            "guid": "sbQk_bRWeE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "grundlegende Imperative Konstrukte",
+                "<ul><li>Ausdrücke, Zuweisungen, Anweisungen(a=1)</li><li>Verzweigungen, Bedingungen (if)</li><li>Schleifen</li></ul>"
+            ],
+            "guid": "k77P;;2BO!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sinnvolle Konstruke imperative Programmiersprachen",
+                "<ul><li>Funktionen</li><li>Zählschleifen</li><li>Rekursionen</li></ul>"
+            ],
+            "guid": "zYer+dQ607",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann wurden strukturiere Programminerung gefordet",
+                "1968 in einem Artikel welcher diese gefordert hat"
+            ],
+            "guid": "M9^Bi<_}FE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Um was geht es imperativen Programmierung?",
+                "Um die schritweise Anwendung von Anweisungen um Daten zu manipulieren bzw. Berechnungen auszuführen"
+            ],
+            "guid": "l3n(I=@YEg",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind weitere Pradigmen der strukturierten Programmierung",
+                "<ul><li>Forderung nach Modularität</li><li>Wiederverwendbarkeit</li></ul>"
+            ],
+            "guid": "u[<vfP~zQ]",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Rekursivität",
+                "Ein Algorithmus wird als rekursiv bezeichnet, wenn er sich selbst aufruft"
+            ],
+            "guid": "j&We>gDZ>1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Grundlegende Idee Rekursivität",
+                "<ul><li>Bei jedem Aufruf wird das Problem einfacher (der Ergebnisraum kleiner)</li><li>Der innerste Rekursionsschritt ist der triviale Fall (Rekursionsanker)</li></ul>"
+            ],
+            "guid": "PYg_04c;A<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorteile Rekursion",
+                "<ul><li>meist kürzer als iterativer Algorithmus</li><li>übersichtlicher</li><li>einfacher zu verstehen</li></ul>"
+            ],
+            "guid": "Rces=aqZ$X",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nachteile Rekursion",
+                "<ul><li>Abbruchkriterum ansonsten ewig</li><li>Bei Umsetzung höherer Speicherplatzbedarf</li><li>langsamer</li></ul>"
+            ],
+            "guid": "I4_VEDOUj=",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Rekursivität Fakultät",
+                "<img src=\"paste-24e33345e8f2ffc5394571341c1bba578ee4d1ab.jpg\">"
+            ],
+            "guid": "c5+{jN0|/K",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Typen von Rekursionen",
+                "<ul><li>direkte Selbstrekursion</li><li>indirekte (wechselseitige) Rekursion</li><li>lineare Rekursion</li><li>kaskadierende Rekursion</li></ul>"
+            ],
+            "guid": "P05`FcBPdM",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die direkte (Selbstrekursion)",
+                "Eine Rekursion ruft sich selbst auf"
+            ],
+            "guid": "gXv3&mu~QA",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die indirekte (wechselseitige) Rekursion",
+                "Eine Methode a ruft eine andere Methode b auf, welche wiederum a aufruft"
+            ],
+            "guid": "FeS)silyWz",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die lineare Rekursion",
+                "Eine Rekursion ruft sich einmal im Code selbst auf"
+            ],
+            "guid": "G#UPq-iVGv",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die kaskadierende Rekursion",
+                "Eine Rekursion ruft sich mehr als einmal selbst im Code auf"
+            ],
+            "guid": "P%t-I`v}+v",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist eine besondere Rekursion",
+                "Endrekursion"
+            ],
+            "guid": "zv>j288dF%",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Endrekursion",
+                "<ul><li>Der Aufruf der Rekursion steht als letzte Anweisung in der Methode</li><li>Für jede Endrekursion gibt es einen äquivalenten iterativen Algorithmus</li></ul>"
+            ],
+            "guid": "D2cl0783yu",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Endrekursion",
+                "<img src=\"paste-456799ecc2a0b9faf9f0eaf0266fd5d25c43b3e3.jpg\">"
+            ],
+            "guid": "qVo}*jDty2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind die Fehler bei Rekursionen",
+                "<ul><li>keine Abbruchkriterium&nbsp;</li><li>das Abbruchkriterium wird nie erfüllt</li><li>die Rekursion wird nicht einfacher, sondern komplexer</li></ul>"
+            ],
+            "guid": "I!F{}U4E}B",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Ursachen wieso Rekursion komplexer wird",
+                "<ul><li>Rekursionsschritt ist falsch</li><li>Rekursionsaufruf ist falsch</li><li>Rekursionsrichtung ist falsch</li></ul>"
+            ],
+            "guid": "os1T=vD>iC",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fehlerarten: Syntaktische Fehler",
+                "<ul><li>Konstruke der Programmiersprache wurden nicht richtig angewandt</li><li>werden durch Compilor abgefangen</li></ul>"
+            ],
+            "guid": "KFYWg+fays",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Fehlerarten: semantische (logische) Fehler",
+                "<ul><li>werden vom Computer meist nicht erkannt</li><li>tauchen erst bei Laufzeit auf (best-case)</li><li>tauchen gar nicht auf, aber das Ergebnis ist falsch (worst case)</li></ul>"
+            ],
+            "guid": "u(.,*v<jA0",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Häufige semantsiche Fehler",
+                "<ul><li>Bei der Umsetzung des Problems in einen Algorithmus werden Denkfehler begangen</li><li>durch Tippfehler</li></ul>"
+            ],
+            "guid": "}V`^-@8&N",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel semantische Fehler",
+                "<ul><li>Zuweisung statt Vergleich</li><li>&lt; statt &gt;</li><li>falsche Rechenoperation</li><li>Falscher Datentyp gewählt</li></ul>"
+            ],
+            "guid": "CDVvkw>Q|1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arten der Korrektheit",
+                "<ul><li>partiell</li><li>total</li><li>ausführbar</li></ul>"
+            ],
+            "guid": "jz>dMj{/D%",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arten der Korrektheit: partiell",
+                "wenn ein Ergebnis ausgegeben wird, muss dieses korrekt sein"
+            ],
+            "guid": "z~;M1Wf/)e",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arten der Korrektheit: total",
+                "wenn partiell korrekt und terminiert (es wird immer ein Ende erreicht)"
+            ],
+            "guid": "K~`Sed#H?y",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arten der Korrektheit: ausführbar",
+                "Betriebsmittel reichen aus, um den Algorithmus duchzuführen"
+            ],
+            "guid": "rc,s0N]^IE",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Nachweis der Korrektheit Vorgehensweisen?",
+                "<ul><li>Testen</li><li>Beweisen</li></ul>"
+            ],
+            "guid": "K%jE`LoI?n",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Testen Eigenschaften?",
+                "<ul><li>einfach, aber fehleranfällig</li><li>meist von Wissen/Erfahrung des Testers abhängig</li><li>totale Korrektheit kann nicht gezeigt werden (nur partielle Korrektheit)</li></ul>"
+            ],
+            "guid": "z0}m4u$m]:",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beweisen Eigenschaften",
+                "schwierig, aber totale Korrektheit kann gezeigt werden"
+            ],
+            "guid": "O7=/~QY$Ky",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was muss noch nachgewisen werden, um die Korrektheit nachzuweisen?",
+                "Die Terminiertheit"
+            ],
+            "guid": "c,Jdf!$]@J",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zu was ist die Terminierheit erforderlich?",
+                "<ul><li>Schleifen</li><li>Rekursionen</li></ul>"
+            ],
+            "guid": "C>^dj8aTCT",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Vorbereitung Testen",
+                "<ul><li>Definition von Testsituationen</li><li>Definition von Testdaten</li><li>Definition von Sollergebnissen</li></ul>"
+            ],
+            "guid": "e/4FSESS08",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Testarten",
+                "<ul><li>statisches Testen</li><li>dynamisches Testen</li></ul>"
+            ],
+            "guid": "G3VWMf%Z-J",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was kann mit statischem Testen überprüft werden",
+                "<ul><li>Komplexität</li><li>Erreichbarkeit</li><li>Syntax</li><li>Semantik</li><li>Programmierrichtlinien</li></ul>"
+            ],
+            "guid": "Hd%L-h_f,+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die Erreichbarkeit bei statischen Test?",
+                "können überhaut alle Programmteile erreicht werden"
+            ],
+            "guid": "oJ$[!{oK]I",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Statische Test Beispiele",
+                "<ul><li>Schreibtischtest</li><li>Code-Walkthrough</li><li>Code-Inspektion</li></ul>"
+            ],
+            "guid": "E0dvQ_Vmc$",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schreibtischtest",
+                "<ul><li>Mit Hilfe von ausgewählten Testdaten wird am Schreibtisch ein Programmablauf durchgespielt</li><li>Wahl der Testdaten ist wichtig</li><li>i.d.R. vom Programmierer durchgeführt</li></ul>"
+            ],
+            "guid": "z#Xe)T!iic",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Code-Walkthrough",
+                "Wie schreibtischtest, nur von Gruppe durchgeführt"
+            ],
+            "guid": "i_07hpLc=d",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Code-Inspektion",
+                "<ul><li>wird von einem Team durchgeführt</li><li>Team besteht aus Programmierer(Vorleser), Moderator, Protokollant und mehreren Inspektoren</li><li>kompletter Code wird durchgegangen</li><li>sehr hoher Nutzen, aber sehr hohe Kosten</li></ul>"
+            ],
+            "guid": "LyPtS4]b1n",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Arten Dynamsiche Tests",
+                "<ul><li>Black-Box Testing</li><li>White-Box Testing</li></ul>"
+            ],
+            "guid": "txl!cdyyLw",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Black-Box Testing",
+                "<ul><li>noch machen</li></ul>"
+            ],
+            "guid": "B=WN-nu!{W",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "White Box Testing",
+                "<ul><li>beseitigt Schwächen des Black-Box Tests dadruch das der Inhalt der getesteten Funktionen bekannt ist</li><li>es ist nun möglich alle möglichen Situationen zu testen</li><li>es wird jeder mögliche Pfad mindestens einmal durchlaufen</li><li>aufwendiger als BBT</li></ul>"
+            ],
+            "guid": "zfN(R,=Zx?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beweisen (Formales Testen)",
+                "<ul><li>z.B. mit Hilfe eines speziellen Kalküls oder einer speziellen Testsprache (Z) durchgeführt. </li><li>Nur Formales Testen kann die Korrektheit eines Algorithmus sicherstellen</li></ul>"
+            ],
+            "guid": "vO3!K8V|w9",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Testen von Komplexen Systemen. Was Gilt?",
+                "<ul><li>Testen des Gesamtsystems nicht möglich</li><li>Test von logschen Funktionseinheiten /Modulen</li></ul>"
+            ],
+            "guid": "D}]7ZFphml",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Systeme: Wie wird die Korrektheit bewiesen?",
+                "<ul><li>pre-condition</li><li>post-condition</li><li>andere Module</li></ul>"
+            ],
+            "guid": "g:;$c?LZ{+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Pre-Condition",
+                "Was geht rein, in welchem Zustand befindet sich das system"
+            ],
+            "guid": "IJDI6Qsk.2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Post-Condition",
+                "was kommt raus, in welchem Zustand befindet sich das System"
+            ],
+            "guid": "xV(Lt)/ZPr",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "andere Module",
+                "verlassen sich auf deise Korrektheit"
+            ],
+            "guid": "c(;*-fDcBa",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexte Systeme Arten des Testen",
+                "<ul><li>Bottom Up</li><li>Top Down</li></ul>"
+            ],
+            "guid": "nnRTQM)8jH",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Systeme Testen: Bottom UP",
+                "<ul><li>Programm wird zerlegt und zuerst die Unterprogramme getestet</li><li>erlaubt paralleles Testen</li><li>Dann wird schrittwiese integriet</li></ul>"
+            ],
+            "guid": "p%)pTj*UkX",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Systeme Testen: Nachteile",
+                "Fehler werden u.U. erst spät erkannt und somit schwer zu beheben"
+            ],
+            "guid": "yZ2hYcjrMR",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Systeme: Bottom UP Nach jeder Integration",
+                "<ul><li>Test der Schnittstelle</li><li>Test der Gesamtfunktion</li></ul>"
+            ],
+            "guid": "EWKn`2Py(s",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexe Systeme Testen: Top Down&nbsp;",
+                "<ul><li>zuerst wird Gesamtfunktion geprüft</li><li>dann wird schrittweise zerlegt</li><li>depth-first bzw. breadth-first Testen</li></ul>"
+            ],
+            "guid": "I4|~UXd=WF",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist&nbsp;depth-first bzw. breadth-first Testen",
+                "depth-first Testen erlaubt es über eine Teilfunktionalität eines Programmes schnell Aussagen über die Korrektheit machen zu können"
+            ],
+            "guid": "wTDeqDZL;P",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kategorien der Berechenbarkeit",
+                "<ul><li>berechenbar</li><li>entscheidbar</li><li>nicht berechenbar/entscheidbar</li></ul>"
+            ],
+            "guid": "FplMBWttnJ",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "berechenbar",
+                "Ein Algorithmus liefert für jede Eingabe ein Ergebnis in endlicher Zeit"
+            ],
+            "guid": "G7:ckNCvq%",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Entscheidbar",
+                "für jede Eingabe stoppt die Berechnung in endlicher Zeit mit dem Ergebnis ja/nein"
+            ],
+            "guid": "ew]<9{l`[j",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nicht berechenbar/entscheidbar",
+                "Die Berechnung kann für jede Eingabe unendlich lange laufen"
+            ],
+            "guid": "M(i@Hb)w-X",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man berechenbarkeit beweisen?",
+                "Mit einer Turing Maschine"
+            ],
+            "guid": "wxm40#ASJ=",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bereiten Probleme bei Algorithmen",
+                "Bei dennen man nicht sicher ist, ob sie prinzipiell berechnbar sind"
+            ],
+            "guid": "I`EApzGtR&",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie geht man bei nicht prinzipiell berechenbaren Algorythmen vor?",
+                "Es wird zunächst ein Algorithmus entworfen, der das Problem lösen soll und dann gezeigt, das er wiederspüchlich arbeitet"
+            ],
+            "guid": "xwofa-:Mi!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Halte Problem",
+                "Dieses Problem kann nie gelöst werden<br><br>-&gt; Es gibt Programme die nicht berechenbar sind&nbsp;<br>Es wäre praktisch wenn es sie geben würde, sie gibt es jedoch nicht"
+            ],
+            "guid": "GF;?;JeFi&",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Algorithmus:",
+                "Alle vernünftigen Definitionen des Begriffs Algorithmus sind gleichwertig"
+            ],
+            "guid": "BlalgdYB&(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was wäre wenn wir nicht die Definition eines Algorithmus haben?",
+                "Wir wären immer noch in einem Streit welche Programmiersprache die beste ist bzw ob wir eine Sprache für alles haben"
+            ],
+            "guid": "Q6[3%?7G4n",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was tut man um ein nicht berechenbares Problem zu lösen?",
+                "<ul><li>Teilweise Berechnen</li><li>Würfeln/Raten</li><li>Nährungsrechnen</li></ul>"
+            ],
+            "guid": "IXh]a=CZ)B",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kennzahlen der Komplexität",
+                "<ul><li>Lines of Code</li><li>Schachtelungstiefe</li><li>Anzahl Rechenschriffe</li></ul>"
+            ],
+            "guid": "m[.BAE>/8Q",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "nachteil Lines of Code",
+                "Über verschiedene Programmiersprachen ist es nicht ergleichbar"
+            ],
+            "guid": "eQ>+>Pph{S",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Schachtelungstiefe",
+                "Besser, da je weniger Schleifen, desto einfacher"
+            ],
+            "guid": "pgqc~wfF,z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl Rechenschritte",
+                "Am besten, aber sehr schwierig"
+            ],
+            "guid": "LKs|6sj{fA",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: Zuweisung, Vergleich, Arithmetik, Eingabe, Ausgabe",
+                "1"
+            ],
+            "guid": "r]s9|255<2",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: logische Ausdrücke",
+                "setzen sich aus 1. zusammen"
+            ],
+            "guid": "gHAnx{PYKr",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: Funktionsaufruf",
+                "Ersetzung durch Anzahl Rechenschritte der Funktion"
+            ],
+            "guid": "Ox.SUYqZes",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: Auswahl",
+                "Komplexität aus 2. + Maximum der Rechenschritte der einzelnen Zweige"
+            ],
+            "guid": "r$fQ4d0R>;",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: Anweisung",
+                "Summe der Rechenschritte der enthaltenen Operationen"
+            ],
+            "guid": "w-(FcTx<RP",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: Schleife",
+                "Initialisirung + maximale Anzahl an Durchläufen"
+            ],
+            "guid": "Q#tfWkD>$f",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Anzahl der Rechnungsschritte: Rekursion",
+                "genauere Betrachtung der Rekursion"
+            ],
+            "guid": "f~8e#!j}$3",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kompexitätsklassen",
+                "<ul><li>O-Notation</li><li><img src=\"paste-c8be6bf4a12ad842291f4990ed23f368f36ca06a.jpg\"><br></li><li><img src=\"paste-de194c2d897d8b9d5a92772bb44b39c3f4087322.jpg\"><br></li></ul>"
+            ],
+            "guid": "L~m{`Idx!W",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "O-Notation",
+                "Liefert obere Schranke der Komplexitöt eines Algorithmus"
+            ],
+            "guid": "PH{[vATLNx",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-de194c2d897d8b9d5a92772bb44b39c3f4087322.jpg\">",
+                "Liefert exakte Schranke der Komplexität eines Algorithmus"
+            ],
+            "guid": "O|XVGi(_@%",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-d6dc9fd764c87e9f9594871be9a2776d03b22960.jpg\">",
+                "Liefert untere Schranke der Komplexitöt eines Algorithmus"
+            ],
+            "guid": "e[BIWM^O<K",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist die gebräuchliche Notation?",
+                "Die O-Notation"
+            ],
+            "guid": "s/`>h}Cs=J",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Problemgrößen",
+                "<ul><li>Sortieren einer Datenreihe</li><li>Bearbeiten eines Bilddatenwürfels</li><li>Suchen in einer Datenbank</li></ul>"
+            ],
+            "guid": "Pus,Kchr@5",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sortieren einer Datenreihe",
+                "Anzahl der zu sortierenden Elemente"
+            ],
+            "guid": "CC-jG]}[`8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Bearbeiten eines Bilddatenwürfels",
+                "Dimensionen des Bildwürfels"
+            ],
+            "guid": "Q1.mv6mSxK",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Suchen in einer Datenbank",
+                "Anzahl der Datensätze"
+            ],
+            "guid": "yq`IQ%qf1$",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(1) Art:",
+                "<div>Die Rechenzeit ist unabhängig von der Problemgröße</div>"
+            ],
+            "guid": "QHzU~y>zrM",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(1) Beispiel:",
+                "Sequentielle Algorythmen"
+            ],
+            "guid": "ywphK~L1~w",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klasse Linux",
+                "O(1,5)"
+            ],
+            "guid": "y[!mOOc`H)",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: O(log n) Art",
+                "Die Rechenzeit wächst logorithmisch (Basis 2) mit der Problemgröße"
+            ],
+            "guid": "Ok#c.z*f@&",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: O(log n) Beispiel:",
+                "<ul><li>Algorythmen die auf Bäume bassieren</li><li>Alle Algorythmen die ein Teil eines Problems in Teil Probleme aufteilen</li></ul>"
+            ],
+            "guid": "P44E~ovRas",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n) Art:",
+                "Die Rechenzeit wächst linear mit der Problemgröße"
+            ],
+            "guid": "Ok)!*J{SiO",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n) Beispiel:",
+                "<ul><li>1D Array</li><li>Suche in 1D-Datenstrukturen</li></ul>"
+            ],
+            "guid": "kqsjB9Cltb",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n log n) Art:",
+                "Die Rechenzeot wächst liear logorithmisch (Basis 2) mit der Problemgröße"
+            ],
+            "guid": "fG;)fIL7||",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n log n) Beispiel:",
+                "<ul><li>Zerlegung von Problemen und lösung aller Teilprobleme</li></ul>"
+            ],
+            "guid": "s6DrCw9[(i",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n²) Art:",
+                "Die Rechenzeit wächst quadratisch mit der Problemgröße"
+            ],
+            "guid": "x#aP%}oJlj",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n²) Beispiel:",
+                "<ul><li>Bubble Sort</li><li>2D-Strukturen</li><li>Bildverarbeitung</li></ul>"
+            ],
+            "guid": "s*{74a4D56",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n³) Art:",
+                "Die Rechenzeit wächst kubisch mit der Problemgröße"
+            ],
+            "guid": "wRo]Us|,CT",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n³) Beispiel:",
+                "<ul><li>3D Strukturen</li><li>räumliche Algorithmen</li></ul>"
+            ],
+            "guid": "x/x[bxK&?j",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(2 hoch n) Art:",
+                "Die Rechenzeit wächst exponentiell mit der Problemgröße"
+            ],
+            "guid": "fH/N~K{^_]",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(2 hoch n) Beispiel:",
+                "<ul><li>Hanoi</li><li>Rekursionen</li></ul>"
+            ],
+            "guid": "xPD-n*Dk9`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n!) Art:",
+                "Die Rechenzeit wächst exponentiell mit der Problemgröße"
+            ],
+            "guid": "uQ;#,$SX68",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Klassen der Notation: 0(n!) Beispiel:",
+                "alle Permutationen die in Algorithmen sind"
+            ],
+            "guid": "B$Sw.&D6?t",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Regeln für die Bestimmung von O",
+                "<ul><li>bei Polynoen bestimmt die höchste Potz die Komplexitätsklase</li><li>alle anderen Glieder sind vernachlässigbar</li><li>konstante Faktoren sind vernachlässigbar</li></ul>"
+            ],
+            "guid": "O,4k`v(@gF",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexität bestimmten 2n+1",
+                "O(n)"
+            ],
+            "guid": "hzuH7Bp>zm",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexität bestimmten 4n²+8n+3",
+                "O(n²)"
+            ],
+            "guid": "Io!v75eR3y",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexität bestimmten (n über 2)",
+                "<img src=\"paste-4f894658c657915541e6a0d32127468179b7bbe3.jpg\">"
+            ],
+            "guid": "hZzevFjG04",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexität bestimmen 4n*5m",
+                "O(n*m)"
+            ],
+            "guid": "DW;g>p1yCz",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Komplexität bestimmten 4n * 5000m",
+                "O(m)"
+            ],
+            "guid": "K(9_{8V`+<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Best-Case Komplexität",
+                "Betrachtet wird die Komplexität für den bestmöglichen Ablauf"
+            ],
+            "guid": "kk~3|:M`/k",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Von was hängt die Komplexität eines Algorithmus&nbsp;",
+                "<ul><li>Die Komplexität variiert die Komplexität bei unterschiedlicher Beschaffenheit der Problemgröße</li></ul>"
+            ],
+            "guid": "x[Y@wo552G",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche Angaben sind sinvoll er O-Komplexität",
+                "<ul><li>Best-Case Komplexität</li><li>Average-Case Komplexität</li><li>Worst-Case Komplexität</li></ul>"
+            ],
+            "guid": "I<Mc9Tu#b(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Average-Case Komplexität",
+                "Betrachtet wird die Komplexität für einen gängigen Ablauf"
+            ],
+            "guid": "LC;W{1JMi`",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Worst-Case Komplexität",
+                "Betrachtet wird das Verhalten des Algorithmus für die schlechstmöglichsten Ablauf"
+            ],
+            "guid": "OW~^Y5shOo",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Optimaler Algorythmus?",
+                "wenn der average Case an den best-case heranrückt"
+            ],
+            "guid": "x<|o8)#Zwh",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist ein Schlechter Algroythmus?",
+                "wenn der average Case an den worst-case heranrückt"
+            ],
+            "guid": "qnP+}kLo.S",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Best Case Bubble Sort",
+                "Sortierte Reihenfolge O(n)"
+            ],
+            "guid": "c~@WA^M>Li",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Worst Case Bubble Sort",
+                "<ul><li>Umgekehrt Sortierte Reihenfolge</li><li>O(n²)</li></ul>"
+            ],
+            "guid": "N!&7)oHMN#",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Average Case Bubble Sort",
+                "<ul><li>Randomisierte Reihenfolge</li><li>Jedes Element muss halbe Strecke zurücklegen (n/2)</li><li>Insgesamt n/2 Durchgänge. n/2 * n/2 = ¼ n² -&gt; O(n²)</li></ul>"
+            ],
+            "guid": "xh1:V:m<Ox",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition P-Probleme",
+                "Menge aller Probleme, die ein nicht-deterministischer Algorithmus in polynomineller Zeit lösen kann"
+            ],
+            "guid": "qmxF(qjn?A",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet Polynominelle&nbsp;Zeit",
+                "Polynominelle Laufzeit bedeutet das die Laufzeit durch ein Polynom bestimmt wird,"
+            ],
+            "guid": "c_9kwK/4(?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition NP-Probleme",
+                "Menge aller Probleme, die ein nicht-deterministischer Algorithmus in polynomineller Zeit lösen kann.&nbsp;"
+            ],
+            "guid": "d#F`|+SuSi",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie lange braucht ein deterministischer Algorithmus für ein NP-Problem",
+                "Benötigt exponentiell viel Zeit&nbsp;"
+            ],
+            "guid": "CLG#t#s?Wk",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das Große Ziel der Informatik/Mathematik",
+                "Ein NP-Problem in ein P-Problem zu überführen"
+            ],
+            "guid": "u4O!M+^m[w",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gelingt NP -&gt; P?",
+                "Es gelingt ab und zu. Man weiß aber nicht, ob es dies für alle Probleme gilt"
+            ],
+            "guid": "C9OlR89+!I",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Welche O-Notations Klassen wollen wir in der Informatik nicht?",
+                "<ul><li>O(2 hoch n)</li><li>O(n!)</li></ul>"
+            ],
+            "guid": "iK,f2!AUK,",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind NP-vollständige Probleme?",
+                "<ul><li>schwersten Probleme innerhalb der NP Probleme&nbsp;</li></ul>"
+            ],
+            "guid": "LauAeQ<@r~",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie stehen NP-vollständig und NP in Relation?",
+                "<ul><li>NP-Vollständing sind auch NP Probleme</li><li>NP-Probleme sind nicht unbedingt NP-Vollständig Probleme</li></ul>"
+            ],
+            "guid": "BD0hw1OhZu",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man NP-vollständing in ein anderes NP-vollständig überführen?",
+                "mit höchstens polynominellem Aufwand"
+            ],
+            "guid": "grM&VZQ)Hk",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Sind NP-Vollständige Probleme lösbar?",
+                "Nein"
+            ],
+            "guid": "nJ$y~*~Tyn",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie wird ein NP-Problem zu einem NP-vollständig Problem?",
+                "Wenn gezeigt wird, das es nicht durchführbar ist"
+            ],
+            "guid": "[7u.H5l*U",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man alle NP-vollständige Probleme lösen?",
+                "Indem man zeigt, das ein&nbsp;&nbsp;NP-vollständige Problem polynominaler Zeit lösbar ist.&nbsp;"
+            ],
+            "guid": "y0t[J-q4`h",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gibt es Probleme, die nicht in deterministisch in polynomineller Zeit gelöst werden können?",
+                "JA die gbit es"
+            ],
+            "guid": "weqJ.eVtvW",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Cliequenproblem in echt?",
+                "Welche Webseiten sind unter einander Verlinkt"
+            ],
+            "guid": "AT1:_#{&.4",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiele NP-vollständig Probleme",
+                "<ul><li>Minimierung von Schaltungen</li><li>Rucksackproblem</li><li>Stundenplan</li><li>Hamilton-Zyklus</li><li>Travelling Salesman</li></ul>"
+            ],
+            "guid": "KgT!F]@UhA",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Minimierung von Schaltungen",
+                "Finden der minimalen Anzahl an Elementen einer Schaltung"
+            ],
+            "guid": "d(H_g,F%?G",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rucksackproblem Gegeben",
+                "<ul><li>Rucksack mit begrenzter Kapazität an Gewicht und Raum</li><li>Anzahl an Gegenständen mit bestimmtem Gewicht, Größe, Wert</li></ul>"
+            ],
+            "guid": "p6W+fV5.Pw",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Rucksackproblem Gesucht",
+                "Optimum an Auslastung des Rucksacks"
+            ],
+            "guid": "w,&GOWtJq7",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stundenplan Gegeben",
+                "<ul><li>Anzahl an Klassen</li><li>Anzahl an Fächern</li><li>Anzahl an Räumen</li><li>Anzahl an Lehrern</li></ul>"
+            ],
+            "guid": "ecHP?2BaIA",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Stundenplan Gesucht",
+                "Optimale Ausnutzung der Ressourcen"
+            ],
+            "guid": "Bsym8w,e[A",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hamiltion-Zyklus Gegeben",
+                "Netzwerk mit Knotenpunkten"
+            ],
+            "guid": "r5:J;NQ>93",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Hamilton-Zyklus Gesucht",
+                "Strecke, so dass jeder Knoten nur einmal berührt wird"
+            ],
+            "guid": "Kzz#T*lC6?",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Travelling Salesman Gegeben",
+                "Anzahl und Lage der zu besuchenden Städte"
+            ],
+            "guid": "qZuP:`cSL<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Travelling Salesman Gesucht",
+                "Kürzeste Strecke, so dass jede Stadt nur einaml durchfahren werden muss"
+            ],
+            "guid": "m>I9SEZnaQ",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man NP Probleme angehen?",
+                "Divide and Conquer"
+            ],
+            "guid": "GO7E$8<CXR",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Lösungsstrategien NP-Vollständig Probleme",
+                "<ul><li>Divide and Conquer</li><li>Branch and Bound</li></ul>"
+            ],
+            "guid": "x0gO=$/_Ms",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist Divide and Conquer",
+                "<ul><li>Aufteilung des Problems in mehrere (möglichst gleich große) Teilprobleme</li><li>Lösung der Teilprobleme</li><li>Zusammensetzen der Teillösungen zur Gesamtlösung</li></ul>"
+            ],
+            "guid": "oF}`}~Z<4Y",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie funktioniert Branch and Bound?",
+                "<ul><li>Erweiterung des Backtracking</li><li>wird nicht streng der Reihe nach vorgegangen</li><li>Entscheidungen werden über Heuristiken geregelt</li></ul>"
+            ],
+            "guid": "CZfbu+edJ(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Branch and Bound was wird zuerst gemacht?",
+                "<ul><li>vielversrpechende Teilbäume werden zuerst ausprobiert (branch)</li></ul>"
+            ],
+            "guid": "lW<76qMd12",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Branch and Bound was wird zuletzt gemacht?",
+                "<ul><li>Weniger erfolgsversprechende Bäume werden gemieden (bound)</li></ul>"
+            ],
+            "guid": "wANveYp%ye",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was für arten der Programmierung gibt es?",
+                "<ul><li>Imperative/strukturierte Programmierung</li><li>Objektorientierte Programmierung</li><li>Logische Programmierung</li><li>Funktionale Programmierung</li></ul>"
+            ],
+            "guid": "lr!w^ZnGpp",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Objektorienterie Programmierung",
+                "<ul><li>Modellierung der realen Welt durch Objekte</li><li>Objekte besitzen Daten und Mehtoden</li></ul>"
+            ],
+            "guid": "G;*eZzY+!}",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Objektorienterie Programmierung Paradigmen",
+                "<ul><li>Identität</li><li>Klassenbildung</li><li>Kapselung</li><li>Vererbung</li><li>Polymorphismus (Überladung)</li></ul>"
+            ],
+            "guid": "K&0~h~l^h#",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Programmierung",
+                "<ul><li>basierend auf Prädikatenlogik</li><li>Programm besteht aus Fakten und Regeln</li><li>zur Erzeugung von Antworten wird Resolution verwendet</li></ul>"
+            ],
+            "guid": "iWc+3V4zsO",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Logische Programmierung Aufgaben",
+                "<ul><li>Logisches Schließen</li><li>Ableiten von neuen Aussagen aus Regelbasis</li><li>Verifizierung von Aussagen</li></ul>"
+            ],
+            "guid": "O=~b!<<U_}",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funktionale Programmierung&nbsp;zentrale Elemnte",
+                "<ul><li>Funktion</li><li>Rekursion</li></ul>"
+            ],
+            "guid": "CwOtEzHXK]",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funktionale Programmierung Basis",
+                "wenige elementare Funktionen"
+            ],
+            "guid": "B#`{PV2[V8",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funktionale Programmierung Beispiel",
+                "<ul><li>Datenstruktur Liste</li><li>Beispielprogramm Emacs</li><li><img src=\"paste-cd9d814b76607c2632d139195df18d1db60e2b83.jpg\"><br></li></ul>"
+            ],
+            "guid": "x*WU0<]6Q5",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Funktionale Programmierung Parameter",
+                "<img src=\"paste-f185a0bd3bf32b94779806cca1af551f77cb9fe3.jpg\">"
+            ],
+            "guid": "t}g-|#S}k<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wo wird Aussagenlogik verwendet?",
+                "<ul><li>Programmierung</li><li>Schaltungen/Digitaltechnik</li><li>Logisches Schließen. Text in Logik -&gt;Rechnen zu neuem Wissen kommen</li></ul>"
+            ],
+            "guid": "Q)0Eo,dy7z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Um was geht es in der Aussagenlogik",
+                "<ul><li>Enwicklung logischen \"Rechenregeln\"</li><li>Bestiummg der Erfüllbarkeit von Aussagen</li><li>Vereinfachung von Aussagen</li></ul>"
+            ],
+            "guid": "B7On/59,]I",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was überführt man in der Aussagenlogik?",
+                "Umgangssprachlicher Probleme in eine mathematisch korrekte Notation"
+            ],
+            "guid": "txua*#*c62",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was versteht man unter einer Atomaren Formel?",
+                "&nbsp;eine Aussagevariable&nbsp;"
+            ],
+            "guid": "LONIMhd>uG",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Junktoren?",
+                "Verknüpfungsoperatoren"
+            ],
+            "guid": "m+6jk#6muu",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gültige Operatoren Aussagenlogik",
+                "<ul><li><img src=\"paste-607966b048fc4c079612784e9ffb8756a2da0f0e.jpg\"><br></li><li><img src=\"paste-054642cb0668e66df16031bc0fe3357ea5b20d38.jpg\"><br></li><li><img src=\"paste-a0fe1d856f2ed8f32bb80999e330c5d569a076bf.jpg\"><br></li><li><img src=\"paste-141bfd1e15a9bb547b728a76f12cf09cbcbc4771.jpg\"><br></li><li><img src=\"paste-c85d7ae0299d04954339f986703a8d7f87e5e797.jpg\"><br></li></ul>"
+            ],
+            "guid": "Fl>AtE&l:z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet&nbsp;<img src=\"paste-c85d7ae0299d04954339f986703a8d7f87e5e797.jpg\">",
+                "Äquivalenz"
+            ],
+            "guid": "o|rjBLY?SS",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet&nbsp;<img src=\"paste-8f67e5192bd7b2c54666670d61b369f3e92f3bdb.jpg\">",
+                "Folgt"
+            ],
+            "guid": "f_}sy;aYF{",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet<img src=\"paste-32663055f5c473c53b53bcfdf68a041c660115a3.jpg\">",
+                "oder"
+            ],
+            "guid": "kq6/~iq2-L",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet&nbsp;<img src=\"paste-aa0a3df792691ad3d75082f0c661730770aab750.jpg\">",
+                "und"
+            ],
+            "guid": "b(R7AelqD^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet&nbsp;<img src=\"paste-a3143facec388bae6ed3522dc203727f7a0ad772.jpg\">",
+                "nicht"
+            ],
+            "guid": "cu)VRnRHm_",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Literale?",
+                "Literale sind atomare Formeln und ihre Negation"
+            ],
+            "guid": "3LGy~+JYs",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was sind Zusammengesetzte Formeln?",
+                "<ul><li>Alle atomaren Formeln sind Formeln</li></ul>"
+            ],
+            "guid": "QnB7(U|Asb",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist wenn A eine Formel ist?",
+                "Dann ist auch&nbsp;<img src=\"paste-a3143facec388bae6ed3522dc203727f7a0ad772.jpg\">A eine Formel"
+            ],
+            "guid": "u$L1>ruMMK",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist wenn A und B Formeln sind",
+                "Sind folgende auch Formeln:<br><ul><li><img src=\"paste-add8d7bb788e71a96f132371bb14512cb5053016.jpg\"><br></li><li><img src=\"paste-9824978f0bf3e9a39aecc31b0516bf6f2d06e211.jpg\"><br></li><li><img src=\"paste-b4445b2a1cffd8be8ba8a48ffbf8ba3621d614fe.jpg\"><br></li><li><img src=\"paste-a3a38f334e2b9215a73db15ca5b891caaff90247.jpg\"><br></li></ul>"
+            ],
+            "guid": "g3?8T/ufyN",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie müssen Aussagen formuliert werden?",
+                "immer positiv"
+            ],
+            "guid": "G3&;F[6hXo",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-548f306bcdcebf8a8f6558bcec9da2448bad61b3.jpg\">&nbsp;zu&nbsp;<img src=\"paste-89b5170e76f9bde33ad778362d2b89c1e17f16ea.jpg\">",
+                "<img src=\"paste-4bf18821ce2fe24de2f7f25f8f7ff4944368ba98.jpg\">"
+            ],
+            "guid": "nna$pc*q]I",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-b5090ebd2e9317aa3fc1977228d948b37e7a35fc.jpg\">&nbsp;zu&nbsp;<img src=\"paste-c4311340fe938a13c47e0de9bbec78b15d335f71.jpg\">",
+                "<img src=\"paste-e80011dcaa45a785addcd01dee4f3f73e8f60c94.jpg\">"
+            ],
+            "guid": "d7$:ilyA@z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-89ae3a6ddc5cbf722b925bfa86c97b72ee3a479f.jpg\">&nbsp;zu&nbsp;<img src=\"paste-5d94d2f46b9222eab5ac063eaa8bcd244c430737.jpg\">",
+                "<img src=\"paste-e9b3336b846015ec9d2b86a1a54985f86271b10c.jpg\">"
+            ],
+            "guid": "lS|yAzv@3S",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-4ceab30623f6fbe9d3b80cccf0980f1afc7ad6c3.jpg\">&nbsp;zu&nbsp;<img src=\"paste-5b2440666d6963ae6e333d4723d8829558d14ae5.jpg\">",
+                "<img src=\"paste-38f8aa2fc753788609bcfda8f4cfcc8843060640.jpg\">"
+            ],
+            "guid": "k{xh%e(b:v",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-fb9386c0f27dcc1525cc0eff8321dcc46797507d.jpg\"><br><img src=\"paste-7889eb52ad353063cc6b61593966252d66a7b667.jpg\">",
+                "Wieso ist diese Zeile so?<br><br>Aus etwas falschem kann alles Folgen"
+            ],
+            "guid": "ju0z--KD47",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "<img src=\"paste-0069f2b737e6b77a18b120ddd3950e2293380b31.jpg\">&nbsp;zu&nbsp;<img src=\"paste-edb1b119a5440be5aa5269f1339205dd6efe3b87.jpg\">",
+                "<img src=\"paste-5562dab2c1f6991a410df5b257cc193c81639f96.jpg\">"
+            ],
+            "guid": "H@K__I$=B$",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie sieht die Prioritätenreihenfolge in der Aussagenlogik aus?",
+                "<img src=\"paste-8012ae926a7a823c12306096a4301ccd8530e05f.jpg\">"
+            ],
+            "guid": "y$Ll)OYBeh",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie klammert man am besten",
+                "<img src=\"paste-10614b600c88485448ecc2cfa4327dc2a4d495a8.jpg\">"
+            ],
+            "guid": "i<p=K*^pnH",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was bedeutet&nbsp;<img src=\"paste-c1cb15962c6a43fc58a24c2994d82c3d576693ae.jpg\">",
+                "<ul><li>Dies ist das Identiätszeichen</li><li>Auf der Linken und Rechen Seite haben wir das gleiche</li></ul>"
+            ],
+            "guid": "C5R|glY}p4",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Idempotenz: Wie kann man dies Zusammenfassen?&nbsp;<img src=\"paste-db60ad725a2e9ca83568bfa0aff8c316727542e1.jpg\">",
+                "A"
+            ],
+            "guid": "wSUUf@NTKz",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Idempotenz: Wie fasst man dies zusammen?&nbsp;<img src=\"paste-622e6f6ebf27239dc6e5f38a8b012010687310f1.jpg\">",
+                "A"
+            ],
+            "guid": "r:d!uB:j(Z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kommutativgesetz:&nbsp;<img src=\"paste-13c22c66858030a743c98c964c631557e182dc3c.jpg\">&nbsp;=&nbsp;",
+                "<img src=\"paste-187006302293d44143e098a6b4899d3abc23e573.jpg\">"
+            ],
+            "guid": "AJ{YE|9Dx+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Kommutativgesetz:&nbsp;<img src=\"paste-8cd5e373e470b5afdb907a70096805a37fa59fed.jpg\">",
+                "<img src=\"paste-ef3d0d864dfb14e7965c8b7cbd6572fdf82d6aa6.jpg\">"
+            ],
+            "guid": "O#5~n/qK`+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Assoziativgesetz:&nbsp;<img src=\"paste-9a4d85c9407ca8a572130c63a5ee0a78405fffd9.jpg\">",
+                "<img src=\"paste-2968885fd90b5184011a2a50e1e4090866e0c370.jpg\">"
+            ],
+            "guid": "bb,^;*pwap",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Assoziativgesetz:&nbsp;<img src=\"paste-8784655a006e41236490fd1464aa8e05b6db2508.jpg\">&nbsp;= ?",
+                "<img src=\"paste-c32a1bfb989db18e0c7d17356811e1c5ca370bea.jpg\">"
+            ],
+            "guid": "nTt3%.~fk]",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absoprtionsgesetz (Verschmelzung):&nbsp;<img src=\"paste-58046dc14aa801d8bd9db39d3d1f6771571b3ed2.jpg\">=",
+                "A"
+            ],
+            "guid": "j3?7tCDH#E",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Absoprtionsgesetz (Verschmelzung):&nbsp;<img src=\"paste-c8ffda5846af0d42f2f201b375617d40c28ecaa3.jpg\">=",
+                "A"
+            ],
+            "guid": "Ayd&DEd@%^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Distributivgesetz:&nbsp;<img src=\"paste-7f84adac3849e7274b065ddfa8c0f0ee94b8794a.jpg\">=",
+                "<img src=\"paste-a57b91d91b1790ac314e80a5778de2694ed2349d.jpg\">"
+            ],
+            "guid": "m$gwYzPB*f",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Distributivgesetz:&nbsp;<img src=\"paste-ba18a05ded8c04a7723b3c8a71e3166eee43c1f4.jpg\">",
+                "<img src=\"paste-c9daf0eede0ea239ff8d6718e1bb53bc72c865bb.jpg\">"
+            ],
+            "guid": "x(zRRnGl:4",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deMorgansche Regel:&nbsp;<img src=\"paste-2c9eef017f129a0b5337d2adbfedbe0b44dc1274.jpg\">",
+                "<img src=\"paste-97804a8063117cc2a3086b5ca748613fcbe6456c.jpg\">"
+            ],
+            "guid": "mpr(ZjI@8K",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "deMorgansche Regel:&nbsp;<img src=\"paste-80aedf0a6a9c1157f51ce8ba20d7f788b086307c.jpg\">",
+                "<img src=\"paste-755dcd12a81b870984ee377adaa92478348ff34c.jpg\">"
+            ],
+            "guid": "fRMXPVZap#",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Doppelte Negation:&nbsp;<img src=\"paste-c2f449039cc58ab7e6a1b5a00ea4564f93700e29.jpg\">",
+                "A"
+            ],
+            "guid": "i|q2:T0~tb",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ausgeschlossene Dritte:&nbsp;<img src=\"paste-4adc239bdf71f723e80197a28c49e2c1f4857be5.jpg\">",
+                "1"
+            ],
+            "guid": "p^x6TNsR)!",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gesetz vom Widerspruch:&nbsp;<img src=\"paste-5909ca85cb514bdd0b4c4a51f069168a2e4b13aa.jpg\">",
+                "0"
+            ],
+            "guid": "cH3G`4Kj#Q",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gesetz der Vereinfachung:&nbsp;<img src=\"paste-f6cf3cbd767a169ade1800b9ab42c2188595befd.jpg\">",
+                "A"
+            ],
+            "guid": "p-Ces4uhZ<",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gesetz der Vereinfachung:&nbsp;<img src=\"paste-526904817cb7fdd6f990b910faaed776a59cca3a.jpg\">",
+                "0"
+            ],
+            "guid": "fGA10z_az[",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gesetz der Vereinfachung:&nbsp;<img src=\"paste-277741fe884ee8968c39bda5f3116bae60e9b287.jpg\">",
+                "1"
+            ],
+            "guid": "J!)|o^!jx3",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gesetz der Vereinfachung:&nbsp;<img src=\"paste-9ab14a309bb2fd829efb8114a604e82ccdb99c27.jpg\">",
+                "A"
+            ],
+            "guid": "kke)pJH<}1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Implikation:&nbsp;<img src=\"paste-8ce147595e88c9410cc4742cfbc0e0fb978df6e6.jpg\">",
+                "<img src=\"paste-b10340dd0975fd8892c78d5b743fe0e106771e1d.jpg\">"
+            ],
+            "guid": "KJ}n_9o&oq",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Äquivalenz:&nbsp;<img src=\"paste-31ebbe72a926d8a901bc1a45a7e0576086b3059b.jpg\">&nbsp;(2)",
+                "<ul><li><img src=\"paste-841dfed5b9dbc3d0bf1c3b4ac6dfc349740d8076.jpg\"><br></li><li><img src=\"paste-399eed2df6344630da67f1caa6c82d16b9c5a7d1.jpg\"><br></li></ul>"
+            ],
+            "guid": "IZSW])bXg>",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Äquivalenz Welchen weg muss man gehen?",
+                "Wenn ein weg von den beiden nicht geht, bzw nicht gut, muss man den anderen Benutzen"
+            ],
+            "guid": "z3w1fno7v1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unter was versteht man Belegung?",
+                "Eine Abbildung der atomaren Formeln auf die Menge {0,1}"
+            ],
+            "guid": "K1#a[[s%Q+",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Unter was versteht man Modell?",
+                "Eine wahrmachende Belegung der Formel"
+            ],
+            "guid": "f?tG^s5mV*",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann heißt eine Formel unerfüllbar?",
+                "Wenn kein Modell für diese Formel exisitert"
+            ],
+            "guid": "As6a.<QF+*",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Unerfüllbarkeit",
+                "<img src=\"paste-316574c99988e06f6e05953810fbb6e1f6865e3c.jpg\">"
+            ],
+            "guid": "i}5N9Ekg;V",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist eine Formel erfüllbar?",
+                "Mindestens ein Modell muss für sie existieren"
+            ],
+            "guid": "x02CRM54bm",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Erfüllbar",
+                "<img src=\"paste-8b67667b02168db816a768f5d58bbbf7b072b6bf.jpg\">"
+            ],
+            "guid": "QfqE[!GZdX",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was ist das negative Erfüllbar?",
+                "Immer noch Erfüllbar"
+            ],
+            "guid": "w,6.*xNBAm",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann heißt eine Formel gültig?",
+                "Wenn alle möglichen Belagerungen der Formel wahrmachend"
+            ],
+            "guid": "QY}!NNha^3",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Gültige Formel Erklärung",
+                "<img src=\"paste-8972f6d5cf7b6aa38e086559c9e82da1e375b372.jpg\">"
+            ],
+            "guid": "u:79@%FW]Z",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel gültige Formel",
+                "<img src=\"paste-2e400776ef2fabe36ee56c45c19d75420afd7a13.jpg\">"
+            ],
+            "guid": "cF$Bb|Z(2B",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Zusammenfassung Wharheitstafel",
+                "<ul><li>NP-Problem</li><li>O(2(hoch n)</li><li>Um zu entscheiden ob eine Formel erfüllbar ist, kann man sie benutzen</li></ul>"
+            ],
+            "guid": "l*aI8zeSQK",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
