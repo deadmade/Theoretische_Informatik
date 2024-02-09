@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "98b9e737-c592-11ee-832e-f2a0fc844426",
+    "crowdanki_uuid": "518117cc-c78f-11ee-9ee2-f2a0fc844426",
     "deck_config_uuid": "4749c275-c590-11ee-a7ca-f2a0fc844426",
     "deck_configurations": [
         {
@@ -75,7 +75,9 @@
         "paste-141bfd1e15a9bb547b728a76f12cf09cbcbc4771.jpg",
         "paste-187006302293d44143e098a6b4899d3abc23e573.jpg",
         "paste-24e33345e8f2ffc5394571341c1bba578ee4d1ab.jpg",
+        "paste-2753a2155d66e9156948c61a750f6134598d2dd0.jpg",
         "paste-277741fe884ee8968c39bda5f3116bae60e9b287.jpg",
+        "paste-29386602082b416085f731a01f370d3b0c777df6.jpg",
         "paste-2968885fd90b5184011a2a50e1e4090866e0c370.jpg",
         "paste-2c9eef017f129a0b5337d2adbfedbe0b44dc1274.jpg",
         "paste-2e400776ef2fabe36ee56c45c19d75420afd7a13.jpg",
@@ -85,6 +87,7 @@
         "paste-3510b39457feb5c38764a180c6273aeab7e607dc.jpg",
         "paste-38f8aa2fc753788609bcfda8f4cfcc8843060640.jpg",
         "paste-399eed2df6344630da67f1caa6c82d16b9c5a7d1.jpg",
+        "paste-3fb326e4dba360024a703d6a025611a8d652c44c.jpg",
         "paste-456799ecc2a0b9faf9f0eaf0266fd5d25c43b3e3.jpg",
         "paste-4adc239bdf71f723e80197a28c49e2c1f4857be5.jpg",
         "paste-4bf18821ce2fe24de2f7f25f8f7ff4944368ba98.jpg",
@@ -117,11 +120,15 @@
         "paste-97804a8063117cc2a3086b5ca748613fcbe6456c.jpg",
         "paste-9824978f0bf3e9a39aecc31b0516bf6f2d06e211.jpg",
         "paste-9a4d85c9407ca8a572130c63a5ee0a78405fffd9.jpg",
+        "paste-9a787d8d0308a2704f18ee67a23172edf17cd110.jpg",
         "paste-9ab14a309bb2fd829efb8114a604e82ccdb99c27.jpg",
+        "paste-9c9baafc16dcdb205fb548906b072367619a6943.jpg",
         "paste-a0fe1d856f2ed8f32bb80999e330c5d569a076bf.jpg",
+        "paste-a1be4d8a38d5716a0d2434e96ce2515c428ea7d3.jpg",
         "paste-a3143facec388bae6ed3522dc203727f7a0ad772.jpg",
         "paste-a3a38f334e2b9215a73db15ca5b891caaff90247.jpg",
         "paste-a57b91d91b1790ac314e80a5778de2694ed2349d.jpg",
+        "paste-a68c67ec72272d90b3a4805e657d8d81fa69fa6c.jpg",
         "paste-aa0a3df792691ad3d75082f0c661730770aab750.jpg",
         "paste-add8d7bb788e71a96f132371bb14512cb5053016.jpg",
         "paste-af2886844ccd704b96aa8571946d386cb4416814.jpg",
@@ -138,6 +145,8 @@
         "paste-c8ffda5846af0d42f2f201b375617d40c28ecaa3.jpg",
         "paste-c9daf0eede0ea239ff8d6718e1bb53bc72c865bb.jpg",
         "paste-cd9d814b76607c2632d139195df18d1db60e2b83.jpg",
+        "paste-cdb1434e71d9c8938dccc3eb4be7783a1aa4f6ef.jpg",
+        "paste-d0689454b7fd2f90a6f1cd51a7f2d22d8c4e81d5.jpg",
         "paste-d6dc9fd764c87e9f9594871be9a2776d03b22960.jpg",
         "paste-db60ad725a2e9ca83568bfa0aff8c316727542e1.jpg",
         "paste-de194c2d897d8b9d5a92772bb44b39c3f4087322.jpg",
@@ -1055,8 +1064,8 @@
         {
             "__type__": "Note",
             "fields": [
-                "Black-Box Testing",
-                "<ul><li>noch machen</li></ul>"
+                "Black-Box Testing Definition",
+                "<ul><li>Beim Black-Box Testing ist der interne Aufbau einer Funktion nicht bekannt.</li></ul>"
             ],
             "guid": "B=WN-nu!{W",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
@@ -2811,6 +2820,188 @@
             "guid": "l*aI8zeSQK",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
             "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Black-Box Testing Vorgehen",
+                "<ul><li>Testdaten werden erstellt, bestehend aus Eingabedaten und den erwarteten korrekten Ergebnissen.</li><li>Diese Daten werden von der Funktion verarbeitet, und die Ergebnisse werden verglichen.</li></ul>"
+            ],
+            "guid": "c0zVnP,oZ^",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "BlackBox Testing Herausforderungen",
+                "<ul><li>Keine Gewissheit, dass der Algorithmus immer korrekt arbeitet – nur für vorhersehbare Fälle.</li><li>Möglicherweise ungetestete Teile des Algorithmus.</li></ul>"
+            ],
+            "guid": "bF2)2a:*WC",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "BlackBox Testing Praxisrelevanz",
+                "<ul><li>Sinnvoll in der Praxis, solange spezifiziert wird, für welche Fälle der Algorithmus korrekt arbeiten soll.</li></ul>"
+            ],
+            "guid": "c)rJ]?N8~-",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Klausel",
+                "eine Disjunktiuon von Literalen"
+            ],
+            "guid": "B;(f!6K9~)",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Klausel",
+                "<img src=\"paste-29386602082b416085f731a01f370d3b0c777df6.jpg\">"
+            ],
+            "guid": "x~pWh_c!ZW",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Definition Monom",
+                "Eine Konunktion von Literalen"
+            ],
+            "guid": "iDKseRf5|g",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel Monom",
+                "<img src=\"paste-d0689454b7fd2f90a6f1cd51a7f2d22d8c4e81d5.jpg\">"
+            ],
+            "guid": "Mu)rRD9[v1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist eine Formel in DNF",
+                "Wenn sie eine Disjunktion von Monomen von Literalen ist"
+            ],
+            "guid": "I8WPNFkkf@",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Was existiert für jede beliebige Formel?",
+                "Eine äquivalente Formel in DNF"
+            ],
+            "guid": "la9%FTXVZq",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel DNF",
+                "<img src=\"paste-a1be4d8a38d5716a0d2434e96ce2515c428ea7d3.jpg\"><br><br><img src=\"paste-2753a2155d66e9156948c61a750f6134598d2dd0.jpg\">"
+            ],
+            "guid": "iN<(jh6+T1",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man DNF anhand der Wahrheitstafel bestimmen?",
+                "Indem alle Zeilen mit einem Warheitswert von 1 disjunktiv hintereinander gehängt werden"
+            ],
+            "guid": "gT>Yr</XPS",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel DNF an Folgender Wahrheitstabelle:<br><img src=\"paste-9c9baafc16dcdb205fb548906b072367619a6943.jpg\">",
+                "<img src=\"paste-a68c67ec72272d90b3a4805e657d8d81fa69fa6c.jpg\">"
+            ],
+            "guid": "PmQXKVqP.m",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": [
+                "S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wann ist eine Formel in KNF?",
+                "Wenn sie eine Konjunktion von Klauseln ist"
+            ],
+            "guid": "ooZs:gk($*",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": [
+                "S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel KNF",
+                "<img src=\"paste-3fb326e4dba360024a703d6a025611a8d652c44c.jpg\">"
+            ],
+            "guid": "l/F`C5U+>u",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": [
+                "S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann man KNF für eine Formel aus der Wahrheitstafel abgelesen werden?",
+                "<ul><li>Indem alle Zeilen mit einem Wahrheitswert von 0 konjunktiv verknüpft werden</li><li>Literale werden negiert</li></ul>"
+            ],
+            "guid": "oLPBnbhe1Y",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": [
+                "S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Beispiel KNF für Folgende Warheitstafel:<br><img src=\"paste-cdb1434e71d9c8938dccc3eb4be7783a1aa4f6ef.jpg\">",
+                "<img src=\"paste-9a787d8d0308a2704f18ee67a23172edf17cd110.jpg\">"
+            ],
+            "guid": "LR]Np`#b2K",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": [
+                "S"
+            ]
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Wie kann ein KNF in ein DNF umgewandelt werden?",
+                "Mit sehr viel Distributif&nbsp;"
+            ],
+            "guid": "n#/lzfnWo(",
+            "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
+            "tags": [
+                "S"
+            ]
         }
     ],
     "reviewLimit": null,
