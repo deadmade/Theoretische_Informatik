@@ -2814,7 +2814,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Zusammenfassung Wharheitstafel",
+                "Zusammenfassung Warheitstafel",
                 "<ul><li>NP-Problem</li><li>O(2(hoch n)</li><li>Um zu entscheiden ob eine Formel erfüllbar ist, kann man sie benutzen</li></ul>"
             ],
             "guid": "l*aI8zeSQK",
@@ -2875,7 +2875,7 @@
             "__type__": "Note",
             "fields": [
                 "Definition Monom",
-                "Eine Konunktion von Literalen"
+                "Eine Konjunktion von Literalen"
             ],
             "guid": "iDKseRf5|g",
             "note_model_uuid": "4749fc94-c590-11ee-b2c3-f2a0fc844426",
