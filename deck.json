@@ -1764,7 +1764,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "Welche Angaben sind sinnvoll er O-Komplexität&nbsp;",
+                "Welche Angaben sind sinnvoll in der O-Komplexität&nbsp;",
                 "<ul><li>Best-Case Komplexität</li><li>Average-Case Komplexität</li><li>Worst-Case Komplexität&nbsp;</li></ul>"
             ],
             "guid": "I<Mc9Tu#b(",
